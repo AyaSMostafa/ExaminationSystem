@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExamSysDS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-F02S1QG;Initial Catalog=Examination_System</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source ExamSysDS</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>73850906-e2bd-4a49-93f5-39e3a6568e6c</DataSourceID>
+</RptDataSource>

@@ -1,0 +1,323 @@
+F:\DB project\DB Project_Examination\bin\Debug\DB Project_Examination.exe.config
+F:\DB project\DB Project_Examination\bin\Debug\DB Project_Examination.exe
+F:\DB project\DB Project_Examination\bin\Debug\DB Project_Examination.pdb
+F:\DB project\DB Project_Examination\bin\Debug\EntityFramework.dll
+F:\DB project\DB Project_Examination\bin\Debug\EntityFramework.SqlServer.dll
+F:\DB project\DB Project_Examination\bin\Debug\EntityFramework.xml
+F:\DB project\DB Project_Examination\bin\Debug\EntityFramework.SqlServer.xml
+F:\DB project\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.AssemblyReference.cache
+F:\DB project\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.SuggestedBindingRedirects.cache
+F:\DB project\DB Project_Examination\obj\Debug\DB_Project_Examination.Properties.Resources.resources
+F:\DB project\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.GenerateResource.cache
+F:\DB project\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.CoreCompileInputs.cache
+F:\DB project\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.CopyComplete
+F:\DB project\DB Project_Examination\obj\Debug\DB Project_Examination.exe
+F:\DB project\DB Project_Examination\obj\Debug\DB Project_Examination.pdb
+F:\DB project\DB Project_Examination\obj\Debug\DB_Project_Examination.Login.resources
+F:\DB project\DB Project_Examination\obj\Debug\DB_Project_Examination.Welcome_Form.resources
+F:\DB project\DB Project_Examination\obj\Debug\DB_Project_Examination.Student_Form.resources
+F:\DB project\DB Project_Examination\obj\Debug\DB_Project_Examination.Exam.resources
+F:\DB project\DB Project_Examination\obj\Debug\DB_Project_Examination.AddStudent.resources
+F:\DB project\DB Project_Examination\obj\Debug\DB_Project_Examination.Generate_exam.resources
+F:\DB project\DB Project_Examination\obj\Debug\DB_Project_Examination.AddQuestion_Form.resources
+F:\DB project\DB Project_Examination\obj\Debug\DB_Project_Examination.course.resources
+F:\DB project\DB Project_Examination\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\DB project\DB Project_Examination\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\DB project\DB Project_Examination\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\DB project\DB Project_Examination\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\DB project\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\DB project\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\DB project\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\DB project\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\DB project\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\DB project\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\DB project\DB Project_Examination\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\DB project\DB Project_Examination\bin\Debug\EnvDTE.dll
+F:\DB project\DB Project_Examination\bin\Debug\stdole.dll
+F:\DB project\DB Project_Examination\bin\Debug\EnvDTE.xml
+F:\DB project\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DB project\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DB project\DB Project_Examination\obj\Debug\DB_Project_Examination.Reports.resources
+F:\DB project\DB Project_Examination\obj\Debug\DB_Project_Examination.Control_Instructor.resources
+F:\DB project\DB Project_Examination\obj\Debug\DB_Project_Examination.Instructor.resources
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\DB Project_Examination.exe.config
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\DB Project_Examination.exe
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\DB Project_Examination.pdb
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\EntityFramework.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\EnvDTE.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\stdole.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\EntityFramework.xml
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\EnvDTE.xml
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.AssemblyReference.cache
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.SuggestedBindingRedirects.cache
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB_Project_Examination.AddQuestion_Form.resources
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB_Project_Examination.AddStudent.resources
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB_Project_Examination.Control_Instructor.resources
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB_Project_Examination.course.resources
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB_Project_Examination.Exam.resources
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB_Project_Examination.Generate_exam.resources
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB_Project_Examination.Instructor.resources
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB_Project_Examination.Reports.resources
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB_Project_Examination.Student_Form.resources
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB_Project_Examination.Welcome_Form.resources
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB_Project_Examination.Login.resources
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB_Project_Examination.Properties.Resources.resources
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.GenerateResource.cache
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.CoreCompileInputs.cache
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.CopyComplete
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB Project_Examination.exe
+C:\Users\Options\Downloads\DB Project_Examination\obj\Debug\DB Project_Examination.pdb
+F:\DB project\DB Project_Examination\obj\Debug\DB_Project_Examination.Stud_Register_Crs_Form.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\DB Project_Examination.exe.config
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\DB Project_Examination.exe
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\DB Project_Examination.pdb
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\EntityFramework.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\EntityFramework.SqlServer.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\EnvDTE.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\stdole.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\EntityFramework.xml
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\EntityFramework.SqlServer.xml
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\EnvDTE.xml
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.SuggestedBindingRedirects.cache
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB_Project_Examination.AddQuestion_Form.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB_Project_Examination.AddStudent.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB_Project_Examination.Control_Instructor.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB_Project_Examination.course.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB_Project_Examination.Exam.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB_Project_Examination.Generate_exam.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB_Project_Examination.Instructor.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB_Project_Examination.Reports.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB_Project_Examination.Student_Form.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB_Project_Examination.Stud_Register_Crs_Form.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB_Project_Examination.Welcome_Form.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB_Project_Examination.Login.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB_Project_Examination.Properties.Resources.resources
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.GenerateResource.cache
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.CoreCompileInputs.cache
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.CopyComplete
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB Project_Examination.exe
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB Project_Examination.pdb
+D:\iti\9M\17 SQL server\Project\Final_B_test\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.AssemblyReference.cache
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\DB Project_Examination.exe.config
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\DB Project_Examination.exe
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\DB Project_Examination.pdb
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\EntityFramework.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\EntityFramework.SqlServer.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\EnvDTE.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\stdole.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\EntityFramework.xml
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\EntityFramework.SqlServer.xml
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\EnvDTE.xml
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.AssemblyReference.cache
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.SuggestedBindingRedirects.cache
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB_Project_Examination.AddQuestion_Form.resources
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB_Project_Examination.AddStudent.resources
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB_Project_Examination.Control_Instructor.resources
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB_Project_Examination.course.resources
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB_Project_Examination.Exam.resources
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB_Project_Examination.Generate_exam.resources
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB_Project_Examination.Instructor.resources
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB_Project_Examination.Reports.resources
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB_Project_Examination.Student_Form.resources
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB_Project_Examination.Stud_Register_Crs_Form.resources
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB_Project_Examination.Welcome_Form.resources
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB_Project_Examination.Login.resources
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB_Project_Examination.Properties.Resources.resources
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.GenerateResource.cache
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.CoreCompileInputs.cache
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB Project_Examination.csproj.CopyComplete
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB Project_Examination.exe
+D:\Advanced SQL\project\Final Version\DB Project_Examination\DB Project_Examination\obj\Debug\DB Project_Examination.pdb

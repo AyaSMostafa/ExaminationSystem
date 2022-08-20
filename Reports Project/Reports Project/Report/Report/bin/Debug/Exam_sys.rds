@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Exam_sys">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-1VH2MKM\GRAD2SQL;Initial Catalog=Examination_Sys</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>2156b44c-6c58-4476-bd31-3fa7dc98879b</DataSourceID>
+</RptDataSource>
